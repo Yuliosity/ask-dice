@@ -1,2 +1,2 @@
 # ask-dice
-What to accomplish today? Ask Dice!
+Can't decide what to accomplish today? Ask Dice!
